@@ -1,0 +1,19 @@
+{
+  "name": "UIComponentLibrary",
+  "tree": {
+    "$className": "DataModel",
+    "StarterGui": {
+      "$className": "StarterGui",
+      "UIRoot": {
+        "$className": "ScreenGui",
+        "$path": "src/StarterGui/UIRoot"
+      }
+    },
+    "ReplicatedStorage": {
+      "$className": "ReplicatedStorage",
+      "UIComponents": {
+        "$path": "src/ReplicatedStorage/UIComponents"
+      }
+    }
+  }
+}
